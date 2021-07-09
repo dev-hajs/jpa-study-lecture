@@ -19,7 +19,7 @@ public class Member {
     private String street;
     private String zipcode;
 
-    @OneToMany(mappedBy = "MEMBER_ID") // 양방향 매핑
+    @OneToMany(mappedBy = "member") // 양방향 매핑
     private List<Order> orders = new ArrayList<>();
 
     public Long getId() {
