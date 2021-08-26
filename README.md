@@ -6,3 +6,4 @@
 ## repo
 * basic : https://github.com/dev-hajs/jpa-study-lecture-basic
 * jpql : https://github.com/dev-hajs/jpa-study-lecture-jpql
+* jpashop : https://github.com/dev-hajs/jpa-study-jpashop
